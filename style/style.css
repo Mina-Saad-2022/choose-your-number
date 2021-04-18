@@ -1,0 +1,38 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3em;
+    color: #fff;
+}
+.parent{
+    border-radius: 50px;
+    background: #2A272A;
+    box-shadow:  20px 20px 60px #374448,
+                 -20px -20px 60px #374448;
+    margin-top: 12%;
+    color: #F9F871;
+}
+
+.meme{
+    border:2px double #fff
+}
+body{
+    background:url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX30493728.jpg")
+}
+#plus{
+    background:#61434E;
+    border:2px solid #fff;
+    outline: none;
+}
+#minus{
+    background: #677381;
+    color: #fff;
+    border:2px solid #fff;
+    outline: none;
+}
+
+.btn{
+    margin-left: 3.5em;
+}
+.fad{
+    font-size:70% 
+}
